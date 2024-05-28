@@ -10,7 +10,7 @@ const Footer = () => {
         <div className ="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className ="w-64  md:mx-0 mx-auto text-center md:text-left">
             <h3 className =" font-bold text-2xl">
-              Mech<span className ="text-red-500">Shop</span>
+              Zop<span className ="text-red-500">ify</span>
             </h3>
           </div>
 
@@ -67,7 +67,7 @@ const Footer = () => {
         <div className="bg-red-500 text-white">
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
             <p className =" text-sm text-center sm:text-left">
-              © 2024 MechShop —<span>@copyright</span>
+              © 2024 Zopify —<span>@copyright</span>
             </p>
             <p className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
               <span className="mr-2">
